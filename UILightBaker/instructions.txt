@@ -1,0 +1,6 @@
+1. place all scenes in Assets/Scenes
+2. add all scenes you want to bake to the build manager
+3. press the b button next to the play button
+4. select specific scenes (or none to bake all)
+5. add a commit message
+6. press bake lights
